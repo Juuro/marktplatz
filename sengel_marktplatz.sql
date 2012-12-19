@@ -91,7 +91,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `active`, `mode`, `username`, `password`, `prename`, `surname`, `firm`, `street`, `housenumber`, `plz`, `city`, `phone`, `mail`, `url`, `paypal`, `reg_date`, `last_login_date`, `ver_code`) VALUES
-(54, '1', 1, 'Juuro', 'a6ab8687fb7f04e058e9b314087f2684c9ab4f7a', 'Sebastian', 'Engel', '', 'Argonnenstraße 6', 0, 72108, 'Rottenburg', 2147483647, 'mail@sebastian-engel.de', '', '', 1259327403, '2009-11-27 14:10:05', '48ca39103976a1c5757ef65719d4e5f6d0bfadf5');
+(54, '1', 1, 'Juuro', 'a6ab8687fb7f04e058e9b314087f2684c9ab4f7a', 'bada', 'bing', '', 'Bumsfallera', 0, 10783, 'Berlin', 2147483647, 'mail@badabing.de', '', '', 1259327403, '2009-11-27 14:10:05', '48ca39103976a1c5757ef65719d4e5f6d0bfadf5');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
